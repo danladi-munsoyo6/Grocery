@@ -17,6 +17,9 @@ Katz, twitterwire, meevee, quartz and feedfire are our most prominent suppliers.
 5. Which products have the longest shelf life before expiration, and how does that impact sales?
 6. Which products are most likely to run out of stock based on last reorder levels? 
 7. Can we predict seasonal demand for different product categories based on sales volume trends?
-8. What are the optimal reorder levels for high-demand products to prevent stockouts? 
+8. <img width="1086" height="609" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/ecf3aa32-aa87-4085-b63c-d20d02717ed0" />
+
+9. What are the optimal reorder levels for high-demand products to prevent stockouts?
+10. Reorder for high demand be improved by 50% 
 
  
