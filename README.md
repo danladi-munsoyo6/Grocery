@@ -10,11 +10,13 @@ this analysis was done using powerBI. Each questions was answered using data ana
 ## Questions and finings 
 1. What is the average stock quantity available per product category?
    <img width="1116" height="614" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/60b28ec3-f700-4675-9e65-4f5ebc2b6328" />
-
+seafood leads in stock avalaibility, while grains have the lowest. Future purchases should priortize grains to meet demand.
 3. Which suppliers contribute the most to total product inventory?
-4. Which products have the longest shelf life before expiration, and how does that impact sales?
-5. Which products are most likely to run out of stock based on last reorder levels? 
-6. Can we predict seasonal demand for different product categories based on sales volume trends?
-7. What are the optimal reorder levels for high-demand products to prevent stockouts? 
+<img width="1107" height="616" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/611b85b4-852d-4e4f-9664-b1e98b248ed6" />
+Katz, twitterwire, meevee, quartz and feedfire are our most prominent suppliers.
+5. Which products have the longest shelf life before expiration, and how does that impact sales?
+6. Which products are most likely to run out of stock based on last reorder levels? 
+7. Can we predict seasonal demand for different product categories based on sales volume trends?
+8. What are the optimal reorder levels for high-demand products to prevent stockouts? 
 
  
