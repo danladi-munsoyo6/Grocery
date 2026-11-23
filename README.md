@@ -9,9 +9,11 @@ this analysis was done using powerBI. Each questions was answered using data ana
 
 ## Questions and finings 
 1. What is the average stock quantity available per product category?
+2. the average stock quantity was measured using avg stock quantity
+3. AVERAGE('Grocery_Inventory new v1'[Stock_Quantity])
    <img width="1116" height="614" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/60b28ec3-f700-4675-9e65-4f5ebc2b6328" />
 seafood leads in stock avalaibility, while grains have the lowest. Future purchases should priortize grains to meet demand.
-3. Which suppliers contribute the most to total product inventory?
+4. Which suppliers contribute the most to total product inventory?
 <img width="1107" height="616" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/611b85b4-852d-4e4f-9664-b1e98b248ed6" />
 Katz, twitterwire, meevee, quartz and feedfire are our most prominent suppliers.
 5. Which products have the longest shelf life before expiration, and how does that impact sales?
