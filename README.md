@@ -1,2 +1,2 @@
 # Grocery
-data analytics project class
+Grocery inventory dataset
