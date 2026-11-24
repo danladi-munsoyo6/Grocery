@@ -18,6 +18,8 @@ This project is described and evaluated in the inventory of a grocery store.
 this project is intended to provide insights into the inventory of a grocery store, as a means to influence future decision-making
 ## Description of Dataset
 The dataset was sourced from kaggle.com. It comprises of 17 fields (columns) and 572 observations (Rows). It consisted of 5 unanswered questions meant to give data insights for future decision making.
+## Tools 
+This project was carried out using powerBI as the analytic tool.
 ## Description 
 This project described and evaluated the inventory of a grocery store. it was sourced from kaggle.com. it comprise of 17 fields (columns) and 572 observation (rows). it consisted of 5 unanswered questions meant to give data insights for future decision making.
 ## Data cleaning 
