@@ -2,7 +2,7 @@
 Grocery inventory dataset
 ## Table of content
 - [introdcution](#introduction)
-- [project objecrives](#projects-objectives)
+- [project objecrives](#project-objectives)
 - [Description of dataset](#description-of-dataset)
 - [Tools](#tools)
 - [Data cleaning](#data-cleaning)
@@ -12,7 +12,10 @@ Grocery inventory dataset
 - [Recommendation ](#recommendations)
 - [Conclusion](#conclution)
 
-
+## Introduction
+This project is described and evaluated in the inventory of a grocery store.
+## project objectives 
+this project is intended to provide insights into the inventory of a grocery store, as a means to influence future decision-making
 ## Description 
 This project described and evaluated the inventory of a grocery store. it was sourced from kaggle.com. it comprise of 17 fields (columns) and 572 observation (rows). it consisted of 5 unanswered questions meant to give data insights for future decision making.
 ## Data cleaning 
